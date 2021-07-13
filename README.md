@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Site Web de l'ASCCI
+## APROPOS DU Site Web de l'ASCCI
 
 Le Site web de l'ASCII est a la fois un site vitrine et un annuaire.
 Le site a pour but de presenter l'Association, ses activités et aussi de recencer l'ensemble des etudiants ayant faire des etudes au seins de l'université nangui abrogoua (Ex : Abobo-Adjjamé) à l'Ufr SFA dans la filière Génie Informatique.
@@ -25,16 +25,9 @@ Ce site sera réalisé avec le framework laravel. Il contient les éléments sui
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
-
-
-
-### Premium Partners
-
 
 
 ## Contributing
@@ -51,4 +44,4 @@ Merci de bien vouloir participer à la construction du site
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Le site web de l'ASCII est un logiciel reservé à l'Association.
