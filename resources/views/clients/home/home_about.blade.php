@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="p-b-66">
 				<h3 class="ltext-105 cl5 txt-center respon1">
-					Our Blogs
+					A PROPOS DE L'ASCII
 				</h3>
 			</div>
 
@@ -11,7 +11,7 @@
 				<div class="col-md-7 col-lg-8">
 					<div class="p-t-7 p-r-85 p-r-15-lg p-r-0-md">
 						<h3 class="mtext-111 cl2 p-b-16">
-							Our Story
+							L'ASCII
 						</h3>
 
 						<p class="stext-113 cl6 p-b-26">

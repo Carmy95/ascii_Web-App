@@ -21,7 +21,7 @@
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="{{ asset('vendor/slick/slick.css') }}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="">{{ asset('vendor/MagnificPopup/magnific-popup.css') }}
+	<link rel="stylesheet" type="text/css" href="{{ asset('vendor/MagnificPopup/magnific-popup.css') }}">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="{{ asset('vendor/perfect-scrollbar/perfect-scrollbar.css') }}">
 <!--===============================================================================================-->
