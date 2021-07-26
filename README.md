@@ -10,7 +10,7 @@
 ## APROPOS DU Site Web de l'ASCCI
 
 Le Site web de l'ASCII est a la fois un site vitrine et un annuaire.
-Le site a pour but de presenter l'Association, ses activités et aussi de recencer l'ensemble des etudiants ayant faire des etudes au seins de l'université nangui abrogoua (Ex : Abobo-Adjjamé) à l'Ufr SFA dans la filière Génie Informatique.
+Le site a pour but de presenter l'Association, ses activités et aussi de recencer l'ensemble des etudiants ayant faire des etudes au seins de l'université nangui abrogoua (Ex : Abobo-Adjamé) à l'Ufr SFA dans la filière Génie Informatique.
 
 Ce site peut subire des modifications dans le but de l'améliorer et de le rendre plus perfomant.
 
