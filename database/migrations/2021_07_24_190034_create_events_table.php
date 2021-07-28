@@ -22,6 +22,7 @@ class CreateEventsTable extends Migration
             $table->unsignedBigInteger('membre_id');
             $table->foreign('membre_id')->references('id')->on('membres');
             $table->string('photo');
+            $table->char('etat',1);
             $table->timestamps();
         });
     }

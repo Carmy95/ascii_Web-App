@@ -20,8 +20,9 @@ class CreateSlidersTable extends Migration
             $table->date('date2debut');
             $table->date('date2fin');
             $table->string('photo');
-            $table->unsignedBigInteger('membre_id');
-            $table->foreign('membre_id')->references('id')->on('membres');
+            $table->string('etat');
+            $table->unsignedBigInteger('event_id');
+            $table->foreign('event_id')->references('id')->on('events');
             $table->timestamps();
         });
     }

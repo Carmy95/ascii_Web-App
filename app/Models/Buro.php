@@ -8,4 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class Buro extends Model
 {
     use HasFactory;
+
+    protected $fillable = ['libelle','annee_id'];
 }
